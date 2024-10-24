@@ -5,3 +5,4 @@ linuxserver/nextcloud:29.0.1
 linuxserver/nextcloud:29.0.0
 xhofe/alist:v3.36.0
 linuxserver/code-server:4.92.2
+kodcloud/kodbox:v1.4505
