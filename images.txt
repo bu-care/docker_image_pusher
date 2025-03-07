@@ -12,3 +12,4 @@ jeessy/ddns-go:v6.7.5
 mysql:8.4.3
 ollama/ollama:latest
 jeessy/ddns-go:v6.7.7
+ubuntu:24.04
